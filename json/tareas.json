@@ -1,0 +1,8 @@
+[
+  {
+    "id": 0,
+    "texto": "No hay tareas pendientes",
+    "completada": false,
+    "esPlaceholder": true
+  }
+]
